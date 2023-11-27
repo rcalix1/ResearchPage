@@ -14,14 +14,14 @@ Papers:
 
 Previous Students: 
 
-* QPlane: An Open-Source Reinforcement Learning Toolkit for Autonomous Fixed Wing Aircraft Simulation (https://dl.acm.org/doi/abs/10.1145/3458305.3478446)
+* 
 
 	
 ## Reinforcement Learning
 
 Papers:
 
-*
+* QPlane: An Open-Source Reinforcement Learning Toolkit for Autonomous Fixed Wing Aircraft Simulation (https://dl.acm.org/doi/abs/10.1145/3458305.3478446)
 
 Previous Students: 
 
@@ -40,7 +40,7 @@ Papers:
 
 Papers:
 
-*
+* Cyber Security Tool Kit (CyberSecTK): A Python Library for Machine Learning and Cyber Security (https://www.mdpi.com/2078-2489/11/2/100)
 
 Previous Students: 
 
