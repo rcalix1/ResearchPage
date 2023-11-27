@@ -22,6 +22,8 @@ Previous Students:
 Papers:
 
 * QPlane: An Open-Source Reinforcement Learning Toolkit for Autonomous Fixed Wing Aircraft Simulation (https://dl.acm.org/doi/abs/10.1145/3458305.3478446)
+* Attitude Control for Fixed-Wing Aircraft Using Q-Learning (https://link.springer.com/chapter/10.1007/978-3-030-98404-5_59)
+* Using Double Deep Q-Learning to learn Attitude Control of Fixed-Wing Aircraft (https://ieeexplore.ieee.org/abstract/document/10090202)
 
 Previous Students: 
 
