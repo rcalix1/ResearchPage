@@ -6,11 +6,15 @@ Previous and current research
 
 Papers:
 
-*
+* Unexpectedness as a Measure of Semantic Learning When Training Transformer Models (https://www.worldscientific.com/doi/abs/10.1142/S0218213023500070)
+* Saisiyat Is Where It Is At! Insights Into Backdoors And Debiasing Of Cross Lingual Transformers For Named Entity Recognition (https://ieeexplore.ieee.org/abstract/document/10020403)
+* Deep gramulator: Improving precision in the classification of personal health-experience tweets with deep learning (https://ieeexplore.ieee.org/abstract/document/8217820)
+* Text message corpus: Applying natural language processing to mobile device forensics (https://ieeexplore.ieee.org/abstract/document/6618380)
+* Emotion Recognition in Text for 3-D Facial Expression Rendering (https://ieeexplore.ieee.org/abstract/document/5571902)
 
 Previous Students: 
 
-* 
+* QPlane: An Open-Source Reinforcement Learning Toolkit for Autonomous Fixed Wing Aircraft Simulation (https://dl.acm.org/doi/abs/10.1145/3458305.3478446)
 
 	
 ## Reinforcement Learning
