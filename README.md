@@ -8,7 +8,7 @@ ssd
 
 Previous Students: 
 
-<a href="https://www.linkedin.com/in/danieloday/"> Dan O'Day  </a>, 2013 </br>
+* <a href="https://www.linkedin.com/in/danieloday/"> Dan O'Day  </a>, 2013 
 Digital Forensics and Incident Response (DFIR) Consultant  </br>
 
 	
