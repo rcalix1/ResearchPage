@@ -11,6 +11,8 @@ Papers:
 * Deep gramulator: Improving precision in the classification of personal health-experience tweets with deep learning (https://ieeexplore.ieee.org/abstract/document/8217820)
 * Text message corpus: Applying natural language processing to mobile device forensics (https://ieeexplore.ieee.org/abstract/document/6618380)
 * Emotion Recognition in Text for 3-D Facial Expression Rendering (https://ieeexplore.ieee.org/abstract/document/5571902)
+* Automatic Detection of Nominal Entities in Speech for Enriched Content Search (https://cdn.aaai.org/ocs/5862/5862-29771-1-PB.pdf)
+* Detection of Affective States From Text and Speech for Real-Time Human–Computer Interaction (https://journals.sagepub.com/doi/full/10.1177/0018720811425922)
 
 Previous Students: 
 
@@ -44,6 +46,10 @@ Papers:
 Papers:
 
 * Cyber Security Tool Kit (CyberSecTK): A Python Library for Machine Learning and Cyber Security (https://www.mdpi.com/2078-2489/11/2/100)
+* Feature Ranking and Support Vector Machines Classification Analysis of the NSL-KDD Intrusion Detection Corpus (https://datasara.com/secure4dl/papersMag/DS3552-pvmpgwu87b57gx28b8hi6ninuz.pdf)
+* Analysis of a Payload-based Network Intrusion Detection System Using Pattern Recognition Processors (https://ieeexplore.ieee.org/abstract/document/7871015)
+* On the Anatomy of the Dynamic Behavior of Polymorphic Viruses (https://ieeexplore.ieee.org/abstract/document/7871019)
+* On the feasibility of an embedded machine learning processor for intrusion detection (https://ieeexplore.ieee.org/abstract/document/7840711)
 
 Previous Students: 
 
