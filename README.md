@@ -35,7 +35,7 @@ Previous Students:
 
   
 
-## Dynamics Systems and Engineering Sciences
+## Dynamic Systems and Engineering Sciences
 
 Papers:
 
