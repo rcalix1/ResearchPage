@@ -21,7 +21,7 @@ Digital Forensics and Incident Response (DFIR) Consultant  </br>
 
 Funding: 
 
-* Some of these papers have been partially funded by IQT Labs and NIH.
+* Some of these papers have been partially funded by IQT Labs and the NIH.
 
 	
 ## Reinforcement Learning
@@ -66,7 +66,7 @@ Previous Students:
 
 Funding: 
 
-* Some of these papers have been partially funded by the NSA/DoD, Northrop Grumman Research Consortium.
+* Some of these papers have been partially funded by the NSA/DoD, Northrop Grumman Research Consortium, and the DOE.
   
 
 
