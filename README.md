@@ -19,6 +19,10 @@ Previous Students:
 * <a href="https://www.linkedin.com/in/danieloday/"> Dan O'Day  </a>, 2013 
 Digital Forensics and Incident Response (DFIR) Consultant  </br>
 
+Funding: 
+
+* Some of these papers have been partially funded by IQT Labs and NIH.
+
 	
 ## Reinforcement Learning
 
@@ -41,6 +45,10 @@ Papers:
 
 * Machine Learning-Based Regression Models for Ironmaking Blast Furnace Automation (https://www.mdpi.com/2673-8716/3/4/34)
 
+Funding: 
+
+* Some of these papers have been partially funded by the DOE.
+
 ## Cyber Security
 
 Papers:
@@ -55,6 +63,10 @@ Previous Students:
 
 * <a href="https://www.linkedin.com/in/miirshad/"> Irshad Iqbal   </a>, 2015 
   Senior Product Security Engineer at Zoom </br>
+
+Funding: 
+
+* Some of these papers have been partially funded by the NSA/DoD, Northrop Grumman Research Consortium.
   
 
 
