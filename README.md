@@ -13,6 +13,7 @@ Papers:
 * Emotion Recognition in Text for 3-D Facial Expression Rendering (https://ieeexplore.ieee.org/abstract/document/5571902)
 * Automatic Detection of Nominal Entities in Speech for Enriched Content Search (https://cdn.aaai.org/ocs/5862/5862-29771-1-PB.pdf)
 * Detection of Affective States From Text and Speech for Real-Time Human–Computer Interaction (https://journals.sagepub.com/doi/full/10.1177/0018720811425922)
+* Actor level emotion magnitude prediction in text and speech (https://link.springer.com/article/10.1007/s11042-011-0909-8)
 
 Previous Students: 
 
@@ -58,6 +59,7 @@ Papers:
 * Analysis of a Payload-based Network Intrusion Detection System Using Pattern Recognition Processors (https://ieeexplore.ieee.org/abstract/document/7871015)
 * On the Anatomy of the Dynamic Behavior of Polymorphic Viruses (https://ieeexplore.ieee.org/abstract/document/7871019)
 * On the feasibility of an embedded machine learning processor for intrusion detection (https://ieeexplore.ieee.org/abstract/document/7840711)
+* A Corpus of Encoded Malware Byte Information as Images for Efficient Classification (https://ieeexplore.ieee.org/abstract/document/10090131)
 
 Previous Students: 
 
