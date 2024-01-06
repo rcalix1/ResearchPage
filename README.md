@@ -46,6 +46,7 @@ Previous Students:
 Papers:
 
 * Machine Learning-Based Regression Models for Ironmaking Blast Furnace Automation (https://www.mdpi.com/2673-8716/3/4/34)
+  [GitHub](https://github.com/rcalix1/ProbabilityDensityFunctionsFromNeuralNets/tree/main/experiments/2023/august2023)
 
 Funding: 
 
