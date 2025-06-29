@@ -26,7 +26,7 @@ Funding:
 * Some of these papers have been partially funded by IQT Labs and the NIH.
 
 	
-## Reinforcement Learning
+## Reinforcement Learning and Flight 
 
 Papers:
 
