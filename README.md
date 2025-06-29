@@ -53,6 +53,7 @@ Papers:
   [Paper](https://link.springer.com/chapter/10.1007/978-3-031-50349-8_66)
   [GitHub](https://github.com/rcalix1/ProbabilityDensityFunctionsFromNeuralNets/tree/main/experiments/2023/july2023/GANs/PyScriptExamples/example3)
   [Application](https://rcalix1.github.io/ProbabilityDensityFunctionsFromNeuralNets/experiments/2023/july2023/GANs/PyScriptExamples/example3/index.html)
+* The Integrated Virtual Blast Furnace: Enabling Physics-Based Operational Guidance (https://www.osti.gov/biblio/2538104)
 
 Funding: 
 
