@@ -71,6 +71,8 @@ Papers:
 * On the Anatomy of the Dynamic Behavior of Polymorphic Viruses (https://ieeexplore.ieee.org/abstract/document/7871019)
 * On the feasibility of an embedded machine learning processor for intrusion detection (https://ieeexplore.ieee.org/abstract/document/7840711)
 * A Corpus of Encoded Malware Byte Information as Images for Efficient Classification (https://ieeexplore.ieee.org/abstract/document/10090131)
+* Constraint-Based Neural Input Optimization (NIO) for Secure Token Generation
+  [Paper](https://ieeexplore.ieee.org/abstract/document/11337483)
 
 Previous Students: 
 
