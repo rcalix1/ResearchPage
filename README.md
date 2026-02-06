@@ -54,6 +54,8 @@ Papers:
   [GitHub](https://github.com/rcalix1/ProbabilityDensityFunctionsFromNeuralNets/tree/main/experiments/2023/july2023/GANs/PyScriptExamples/example3)
   [Application](https://rcalix1.github.io/ProbabilityDensityFunctionsFromNeuralNets/experiments/2023/july2023/GANs/PyScriptExamples/example3/index.html)
 * The Integrated Virtual Blast Furnace: Enabling Physics-Based Operational Guidance (https://www.osti.gov/biblio/2538104)
+* A Preferences Corpus and Annotation Scheme for Human-Guided Alignment of Time-Series GPTs
+  [Paper](https://www.mdpi.com/2306-5729/10/10/161)
 
 Funding: 
 
