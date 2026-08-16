@@ -43,7 +43,7 @@ Previous Students:
 
   
 
-## Dynamic Systems and Engineering Sciences
+## Dynamical Systems and Engineering Sciences
 
 Papers:
 
@@ -57,7 +57,7 @@ Papers:
 * A Preferences Corpus and Annotation Scheme for Human-Guided Alignment of Time-Series GPTs
   [Paper](https://www.mdpi.com/2306-5729/10/10/161)
 * A Neural Input Optimization Framework for Structure Search in Dynamical Systems
-* [Paper](https://www.mdpi.com/2673-8716/6/3/27)
+  [Paper](https://www.mdpi.com/2673-8716/6/3/27)
 
 Funding: 
 
